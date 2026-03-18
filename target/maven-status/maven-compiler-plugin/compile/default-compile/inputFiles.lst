@@ -1,6 +1,13 @@
 /home/gamer2/meu-projeto/src/main/java/br/com/dio/App.java
-/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Bootcamp.java
-/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Conteudo.java
-/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Curso.java
-/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Dev.java
+/home/gamer2/meu-projeto/src/main/java/com/seuprojeto/service/PedidoService.java
+/home/gamer2/meu-projeto/src/main/java/com/seuprojeto/strategy/StatusStrategy.java
 /home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Mentoria.java
+/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Dev.java
+/home/gamer2/meu-projeto/src/main/java/com/seuprojeto/strategy/EmAndamentoStrategy.java
+/home/gamer2/meu-projeto/src/main/java/com/seuprojeto/controller/PedidoController.java
+/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Conteudo.java
+/home/gamer2/meu-projeto/src/main/java/com/seuprojeto/strategy/CanceladoStrategy.java
+/home/gamer2/meu-projeto/src/main/java/com/Application.java
+/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Bootcamp.java
+/home/gamer2/meu-projeto/src/main/java/br/com/dio/dominio/Curso.java
+/home/gamer2/meu-projeto/src/main/java/com/seuprojeto/strategy/ConcluidoStrategy.java
